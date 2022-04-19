@@ -2,6 +2,7 @@
 
 ![IMG_2241](https://user-images.githubusercontent.com/17035272/163979128-11f5f0a0-c508-4298-8775-1145f27494df.jpg)
 
+Displays the current EURO -> Satoshis Exchange rate
 
 Requires the Scriptable App from the iOs App Store
 
